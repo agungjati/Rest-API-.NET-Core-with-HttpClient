@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/agung/.dotnet/store/|arch|/|tfm|",
+      "/home/agung/.nuget/packages"
+    ]
+  }
+}
